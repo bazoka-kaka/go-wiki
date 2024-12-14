@@ -32,6 +32,14 @@ $ ./wiki
 
 Then just access `http://127.0.0.1:8080/view/Example`
 
+Here are the results:
+
+![Go Wiki](/assets/go-wiki.png)
+
+![Go Wiki 1](/assets/go-wiki-1.png)
+
+![Go Wiki 2](/assets/go-wiki-2.png)
+
 ## References
 
 From the tutorial: https://go.dev/doc/articles/wiki/
